@@ -1,2 +1,2 @@
 # CV
-This is part of an ongoing tutorial.
+This is part of a tutorial. Not an actual/real CV.
